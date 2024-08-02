@@ -1,9 +1,5 @@
-### requirements.txt
-
-```txt
 tensorflow==2.5.0
 tensorflow_hub==0.12.0
 optuna==2.7.0
 numpy==1.19.5
 pandas==1.1.5
-```
