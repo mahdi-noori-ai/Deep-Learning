@@ -1,5 +1,3 @@
----
-
 # ML vs DL: Cancer Severity Prediction
 
 Welcome to the ML vs DL Cancer Severity Prediction project! This repository contains a Jupyter notebook demonstrating a comparison between Machine Learning (ML) and Deep Learning (DL) models on a small dataset, achieving 100% accuracy for both approaches. The dataset used in this project contains information about cancer patients with the target variable indicating the level of severity (low, medium, high).
@@ -185,5 +183,3 @@ Contributions are welcome! If you have any suggestions or improvements, please f
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
