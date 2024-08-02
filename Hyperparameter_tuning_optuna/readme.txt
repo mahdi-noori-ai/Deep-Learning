@@ -1,5 +1,3 @@
----
-
 # Deep Learning Hyperparameter Tuning with Optuna
 
 Welcome to the Deep Learning Hyperparameter Tuning project! This repository contains a Jupyter notebook demonstrating the use of Optuna for hyperparameter tuning in a deep learning model.
@@ -164,7 +162,6 @@ Contributions are welcome! If you have any suggestions or improvements, please f
 4. Commit your changes (`git commit -m 'Add new feature'`).
 5. Push to the branch (`git push origin feature-branch`).
 6. Create a pull request.
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
